@@ -72,7 +72,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output_type", 
         type = str,
-        help = ""Type of the output artifact",
+        help = "Type of the output artifact",
         required = True
     )
 
