@@ -28,7 +28,7 @@ modeling:
   random_forest:
     n_estimators: 200
     max_depth: 50
-min_samples_split: 4
+    min_samples_split: 4
     min_samples_leaf: 3
     # Here -1 means all available cores
     n_jobs: -1
